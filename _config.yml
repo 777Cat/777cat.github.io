@@ -1,0 +1,6 @@
+title: 我的博客
+description: 个人随笔
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
